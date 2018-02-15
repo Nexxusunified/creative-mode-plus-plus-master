@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BURSTCORE</Machine>
+    <WindowsUser>moran</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>30981NexxusLabs.CreativeModePlus</PackageIdentityName>
+    <PackageIdentityPublisher>CN=E6D43E47-0881-4946-8FDC-7B765B1FF450</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\bin\x86\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\src\bin\Debug\Creative Mode+.exe">
+      <PackagePath>Creative Mode+.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\src\bin\Debug\Substrate.dll">
+      <PackagePath>Substrate.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\src\bin\Debug\Creative Mode+.exe.config">
+      <PackagePath>Creative Mode+.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\src\Substrate.dll">
+      <PackagePath>CreativeMode++\Substrate.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\src\CMPHelp.pdf">
+      <PackagePath>CreativeMode++\CMPHelp.pdf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\src\CMP.OSL-License.txt">
+      <PackagePath>CreativeMode++\CMP.OSL-License.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\src\Substrate.License.txt">
+      <PackagePath>CreativeMode++\Substrate.License.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\src\bin\Debug\Creative Mode+.exe">
+      <PackagePath>CreativeMode++\Creative Mode+.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\moran\source\repos\creative-mode-plus-plus-master\src\bin\Debug\Creative Mode+.exe.config">
+      <PackagePath>CreativeMode++\Creative Mode+.exe.config</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

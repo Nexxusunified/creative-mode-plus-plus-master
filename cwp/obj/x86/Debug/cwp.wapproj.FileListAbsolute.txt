@@ -1,0 +1,24 @@
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\bin\x86\Debug\CMPHelp.pdf
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\bin\x86\Debug\CMP.OSL-License.txt
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\bin\x86\Debug\Substrate.License.txt
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\bin\x86\Debug\resources.pri
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\bin\x86\Debug\AppxManifest.xml
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\bin\x86\Debug\cwp.build.appxrecipe
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\bin\x86\Debug\Creative Mode+.exe
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\bin\x86\Debug\Substrate.dll
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\bin\x86\Debug\Creative Mode+.pdb
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\bin\x86\Debug\Creative Mode+.exe.config
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\cwp.wapprojResolveAssemblyReference.cache
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\cwp.wapproj.CoreCompileInputs.cache
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\priconfig.xml
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\layout.resfiles
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\resources.resfiles
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\pri.resfiles
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\qualifiers.txt
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\moran\source\repos\creative-mode-plus-plus-master\cwp\obj\x86\Debug\ProjectArchitectures.txt
